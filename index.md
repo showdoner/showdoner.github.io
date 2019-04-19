@@ -16,11 +16,11 @@ emmm..............................
 ### 04-19-2019 
 
 ```markdown
-    学习了hexo + github 搭载个人的第一个网站，再次纪念
+学习了hexo + github 搭载个人的第一个网站，再次纪念
 
     
 ```
-###参考资料：
+### 参考资料：
 
 https://blog.csdn.net/sinat_37781304/article/details/82729029
    
