@@ -28,6 +28,14 @@ https://zhuanlan.zhihu.com/p/26625249
    
 https://www.jianshu.com/p/a2fe56d11c4f
 
+### 04-20-2019 
+```markdown
+hexo本地文件无法实时更新到github仓库
+正在寻求解决方案
+
+    
+```
+
 ### 自我介绍
 
 不好意思，什么都没有
